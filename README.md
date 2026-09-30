@@ -4,8 +4,8 @@ A simple file browser stack with backend and frontend services.
 
 ## 🧩 Components
 
-- [files-browser-frontend](https://github.com/ionutbalutoiu/files-browser-frontend.git)
-- [files-browser-backend](https://github.com/ionutbalutoiu/files-browser-backend.git)
+- [files-browser-frontend](https://github.com/balutoiu/files-browser-frontend.git)
+- [files-browser-backend](https://github.com/balutoiu/files-browser-backend.git)
 
 ## 🚀 Quick Start
 
